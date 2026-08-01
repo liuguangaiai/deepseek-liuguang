@@ -14,4 +14,4 @@ DeepSeek 怎么用 / 国内用 DeepSeek / DeepSeek 网页版 / AI聚合 DeepSeek
 
 模板：`site_v2.html.j2`
 CTA：`https://liuguang.ai?utm_source=satellite-deepseek&utm_medium=referral&utm_campaign=deepseek`
-最后更新：2026年07月29日
+最后更新：2026年08月01日
